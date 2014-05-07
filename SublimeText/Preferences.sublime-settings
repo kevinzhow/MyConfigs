@@ -1,56 +1,36 @@
 {
-	"folders":
-	[
-		{
-			"file_exclude_patterns":
-			[
-				"*.sublime-workspace",
-				"*.scssc",
-				"*.orig"
-			],
-			"folder_exclude_patterns":
-			[
-				".git",
-				".hg",
-				"CVS",
-				".sass-cache",
-				"node_modules"
-			],
-			"path": "某个文件夹路径"
-		}
-	],
-	"font_face": "Monokai",
-	"font_size": 14,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"settings":
-	{
-		"detect_indentation": false,
-		"ensure_newline_at_eof_on_save": false,
-		"jshint_options":
-		{
-			"boss": true,
-			"browser": false,
-			"eqeqeq": false,
-			"eqnull": true,
-			"evil": true,
-			"laxbreak": true,
-			"newcap": true,
-			"noarg": true,
-			"onecase": true,
-			"onevar": false,
-			"regexdash": true,
-			"strict": false,
-			"sub": true,
-			"trailing": true,
-			"undef": true,
-			"wsh": true
-		},
-		"tab_size": 2,
-		"translate_tabs_to_spaces": true,
-		"trim_trailing_white_space_on_save": true,
-		"use_tab_stops": false
-	}
+  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+  "detect_indentation": false,
+  "ensure_newline_at_eof_on_save": false,
+  "font_face": "Menlo",
+  "font_size": 12,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "show_full_path": true,
+  "jshint_options":
+  {
+    "boss": true,
+    "browser": false,
+    "eqeqeq": false,
+    "eqnull": true,
+    "evil": true,
+    "laxbreak": true,
+    "newcap": true,
+    "noarg": true,
+    "onecase": true,
+    "onevar": false,
+    "regexdash": true,
+    "strict": false,
+    "sub": true,
+    "trailing": true,
+    "undef": true,
+    "wsh": true
+  },
+  "tab_size": 2,
+  "theme": "Spacegray.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_tab_stops": false
 }
